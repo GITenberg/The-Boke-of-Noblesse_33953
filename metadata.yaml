@@ -1,0 +1,31 @@
+_repo: The-Boke-of-Noblesse_33953
+_version: 0.1.0
+alternative_title: "The Book of Noblesse\r\nAddressed to King Edward the Fourth on\
+  \ His Invasion of France in 1475"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Nichols, John Gough
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '36667'
+    url: http://www.gutenberg.org/2009/agents/36667
+description: ''
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Chivalry -- Early works to 1800'
+- !lcsh 'Great Britain -- History -- Edward IV, 1461-1483'
+- !lcsh 'Hundred Years'' War, 1339-1453'
+title: "The Boke of Noblesse\r\nAddressed to King Edward the Fourth on His Invasion\
+  \ of France in 1475"
+url: http://www.gutenberg.org/ebooks/33953
